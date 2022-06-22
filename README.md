@@ -11,7 +11,7 @@
 + 42Seoul Cadet (21/11/08 ~ )
 
 ### 🦾 Project
-+ [✨42byte](https://github.com/blind-42/42byte)
++ [💬42byte](https://github.com/blind-42/42byte)
 + [🏓42gg](https://github.com/42organization/42arcade.gg.client)
 
 
@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-071D49?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-FF69B4?style=flat-square&logo=Figma&logoColor=white"/></span>
+<img src="https://img.shields.io/badge/Figma-FF69B4?style=flat-square&logo=Figma&logoColor=white"/>
+</span>
   
   
   
