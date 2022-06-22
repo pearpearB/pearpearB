@@ -9,7 +9,11 @@
 + Ewha Womans University, Content Convergence & Korean Painting
 + 42Seoul La Piscine (21/09/06 ~ 21/10/01)
 + 42Seoul Cadet (21/11/08 ~ )
->
+
+### 🦾 Project
++ [✨42byte](https://github.com/blind-42/42byte)
++ [🏓42gg](https://github.com/42organization/42arcade.gg.client)
+
 
 ### 🛠 Tech Stack
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
