@@ -12,7 +12,7 @@
 
 ### 🦾 Project
 + [💬42byte](https://github.com/blind-42/42byte) ✨https://42byte.kr
-+ [🏓42gg](https://github.com/42organization/42arcade.gg.client)
++ [🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/
 
 
 ### 🛠 Tech Stack
